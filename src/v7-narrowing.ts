@@ -41,10 +41,4 @@ const showAddress = (user: User) => {
   throw new Error("User not found")
 };
 
-//* Equality
 
-//* "in" Operator
-
-//* "instanceof" check
-
-//* Discriminated Union
